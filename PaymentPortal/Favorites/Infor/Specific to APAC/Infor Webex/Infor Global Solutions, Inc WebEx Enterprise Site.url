@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://emeainfor.webex.com/mw0306lc/mywebex/default.do?siteurl=emeainfor
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://apacinfor.webex.com/
+IDList=
+IconFile=https://emeainfor.webex.com/favicon.ico
+IconIndex=1
+HotKey=0

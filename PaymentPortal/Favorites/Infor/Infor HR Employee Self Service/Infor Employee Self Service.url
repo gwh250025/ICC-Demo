@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=https://selfservice-us.infor.com/SHCM/index.jsp
+[DOC#7#11#13]
+BASEURL=https://selfservice-us.infor.com/SHCM/ahess/LogInScript.jsp
+ORIGURL=/SHCM/ahess/LogIn.html
+[InternetShortcut]
+URL=https://selfservice-us.infor.com/SHCM/index.jsp
+Modified=303C40EE52A0CA0157

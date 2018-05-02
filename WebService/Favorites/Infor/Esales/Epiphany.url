@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=https://esales.infor.com/esalesprod/app/sales.ctrl?S|G|loginRequest=28358
+[InternetShortcut]
+URL=https://esales.infor.com/esalesprod/app/sales.ctrl?S|G|loginRequest=28358
+Modified=6051114950A0CA01C6
+IconFile=https://esales.infor.com/svc_esalesprod/app/svc/images/favicon.ico
+IconIndex=1

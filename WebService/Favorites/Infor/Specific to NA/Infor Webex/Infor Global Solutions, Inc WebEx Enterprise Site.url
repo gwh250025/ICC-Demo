@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://nainfor.webex.com/mw0306lc/mywebex/default.do?siteurl=nainfor
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://nainfor.webex.com/
+IDList=
+IconFile=https://nainfor.webex.com/favicon.ico
+IconIndex=1
+HotKey=0

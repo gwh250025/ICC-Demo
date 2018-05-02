@@ -1,0 +1,5 @@
+[DEFAULT]
+BASEURL=http://vpn.infor.com/
+[InternetShortcut]
+URL=http://usdawitsm1.infor.com/servicemanagementweb/selfservicelogin.aspx
+Modified=9029A5AC55A0CA01CA

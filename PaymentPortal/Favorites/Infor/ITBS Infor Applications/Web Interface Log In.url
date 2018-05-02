@@ -1,0 +1,5 @@
+[DEFAULT]
+BASEURL=http://inforapps.infor.com/Citrix/MetaFrame/auth/login.aspx
+[InternetShortcut]
+URL=http://inforapps.infor.com/Citrix/MetaFrame/auth/login.aspx
+Modified=2089A13351A0CA0139

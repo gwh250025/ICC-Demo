@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://usalvwiteamapp1.infor.com/web/base/ssoservlet?tenant=PRD&domain=INFOR&userid=90724&pcname=USSPDCZIMME01&ticket=RFVNTVlUSUNLRVQ%3D%0A
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://usalvwiteamapp1.infor.com/web/base/logindisp?tenant=PRD
+IDList=
+IconFile=http://usalvwiteamapp1.infor.com/favicon.ico
+IconIndex=1
+HotKey=0
